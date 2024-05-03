@@ -5,6 +5,6 @@
 Latest Education
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/-Flutter-040404)
+![Flutter](https://img.shields.io/badge/-Flutter-040404)
 
 Follow me
