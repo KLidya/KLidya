@@ -12,5 +12,7 @@ Latest Education
 ![mySQL](https://img.shields.io/badge/-mySQL-CE9606)
 ![Postman](https://img.shields.io/badge/-Postman-FF0000)
 ![Linux](https://img.shields.io/badge/-Linux-00B2FF)
+![KNACK](https://img.shields.io/badge/-KNACK-8F0000)
+![HTML](https://img.shields.io/badge/-HTML-074711)
 
 Follow me
