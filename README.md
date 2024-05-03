@@ -4,6 +4,8 @@
 
 Latest Education
 
-Languages and Tools
+### Languages and Tools
+![Java](https://img.shields.io/badge/-Java-550593? 
+style-for-the-badge&logo=Java&logoColor=93F0FD)
 
 Follow me
