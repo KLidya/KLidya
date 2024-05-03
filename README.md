@@ -8,7 +8,7 @@ Latest Education
 ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-B63030?style=for-the-badge)
 ![restAPI](https://img.shields.io/badge/-restAPI-FF56C3?style=for-the-badge)
-![Jira](https://img.shields.io/badge/-Jira-496F84?style=for-the-badge?)
+![Jira](https://img.shields.io/badge/-Jira-496F84?style=for-the-badge)
 ![mySQL](https://img.shields.io/badge/-mySQL-CE9606?style=for-the-badge&logo=mysql&logoColor=000000)
 ![Postman](https://img.shields.io/badge/-Postman-FF0000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-00B2FF?style=for-the-badge)
