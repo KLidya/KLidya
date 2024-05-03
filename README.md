@@ -5,6 +5,6 @@
 Latest Education
 
 ### Languages and Tools
-![Java](https://img.shields.io/Java-black)
+![Flutter](https://img.shields.io/Flutter-blue)
 
 Follow me
