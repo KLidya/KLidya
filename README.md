@@ -9,5 +9,5 @@ Latest Education
 ![ORACLE](https://img.shields.io/badge/-ORACLE-B63030)
 ![restAPI](https://img.shields.io/badge/-restAPI-FF56C3)
 ![Jira](https://img.shields.io/badge/-Jira-496F84)
-
+![mySQL](https://img.shields.io/badge/-mySQL-CE9606)
 Follow me
