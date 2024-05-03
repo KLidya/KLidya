@@ -10,4 +10,6 @@ Latest Education
 ![restAPI](https://img.shields.io/badge/-restAPI-FF56C3)
 ![Jira](https://img.shields.io/badge/-Jira-496F84)
 ![mySQL](https://img.shields.io/badge/-mySQL-CE9606)
+![Postman](https://img.shields.io/badge/-Postman-FF0000)
+
 Follow me
