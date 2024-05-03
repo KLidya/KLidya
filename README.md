@@ -16,4 +16,4 @@ Latest Education
 ![HTML](https://img.shields.io/badge/-HTML-074711?style=for-the-badge)
 
 ### Follow me
-![LinkedIN](https://img.shields.io/badge/-LinkedIN-000D80?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/lidya-kalugina-49a05923b/)
+[![LinkedIN](https://img.shields.io/badge/-LinkedIN-000D80?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lidya-kalugina-49a05923b/)
