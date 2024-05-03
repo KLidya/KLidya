@@ -5,7 +5,7 @@
 Latest Education
 
 ### Languages and Tools
-![Java](https://img.shields.io/badge/-Java-000D80?)
+![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-B63030)
 ![restAPI](https://img.shields.io/badge/-restAPI-FF56C3)
 ![Jira](https://img.shields.io/badge/-Jira-496F84)
