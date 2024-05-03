@@ -1,6 +1,6 @@
 ![Header](https://github.com/KLidya/KLidya/blob/main/Assets/Group%203.jpg)
 
-## I'm a Software Quality Assurance Engineer and an AML Program Manager.
+## I'm a Software Quality Assurance Engineer.
 
 Latest Education
 
