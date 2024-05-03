@@ -5,6 +5,7 @@
 Latest Education
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-040404)
+![Java](https://img.shields.io/badge/-Java-000D80?
+style-for-the-badge&logo=Java&logoColor=93F0FD)
 
 Follow me
