@@ -11,5 +11,6 @@ Latest Education
 ![Jira](https://img.shields.io/badge/-Jira-496F84)
 ![mySQL](https://img.shields.io/badge/-mySQL-CE9606)
 ![Postman](https://img.shields.io/badge/-Postman-FF0000)
+![Linux](https://img.shields.io/badge/-Linux-00B2FF)
 
 Follow me
