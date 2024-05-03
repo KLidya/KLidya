@@ -15,4 +15,5 @@ Latest Education
 ![KNACK](https://img.shields.io/badge/-KNACK-8F0000?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-074711?style=for-the-badge)
 
-Follow me
+### Follow me
+![LinkedIN](https://img.shields.io/badge/-LinkedIN-000D80?style=for-the-badge&logo=linkedin)
