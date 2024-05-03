@@ -1,4 +1,4 @@
-![Header](https://github.com/KLidya/KLidya/blob/main/Assets/Assets.png)
+![Header](https://github.com/KLidya/KLidya/blob/main/Assets/Group%203.jpg)
 
 About me
 
