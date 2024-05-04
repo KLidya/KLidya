@@ -2,8 +2,6 @@
 
 ## I'm a Software Quality Assurance Engineer.
 
-Latest Education
-
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-B63030?style=for-the-badge)
