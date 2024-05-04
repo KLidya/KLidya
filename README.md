@@ -3,7 +3,8 @@
 ## I'm a Software Quality Assurance Engineer.
 
 ### My resume
-[![Resume](https://img.shields.io/badge/-Resume-000D80?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
+[![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
+
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-B63030?style=for-the-badge)
