@@ -17,3 +17,4 @@
 
 ### Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIN-000D80?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lidya-kalugina-49a05923b/)
+[[!email]()](https://img.shields.io/badge/-gmail-8F0000?style=for-the-badge&logo=gmail)
