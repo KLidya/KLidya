@@ -6,9 +6,10 @@
 [![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
 
 ### Projects
-<li> Web application testing
-<li>
-<li>
+<li> Test documentation</li>
+<li> Web application testing</li>
+<li> Working with data</li>
+<li> Working with code </li>
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
