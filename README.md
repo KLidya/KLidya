@@ -6,7 +6,7 @@
 [![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
 
 ### Projects
-<li>
+<li> Web application testing
 <li>
 <li>
 
