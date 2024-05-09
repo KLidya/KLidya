@@ -8,7 +8,7 @@
 ### Projects
 <li> Test documentation</li>
 <li> Web application testing 
-[![kohl](https://img.shields.io/badge/web%20app%20testing)](https://github.com/KLidya/KOHL.git)</li>
+[![kohl](https://img.shields.io/badge/-webtng-000000?style=for-the-badge)](https://github.com/KLidya/KOHL.git)</li>
 <li> Working with data</li>
 <li> Working with code </li>
 
