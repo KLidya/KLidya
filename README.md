@@ -8,7 +8,6 @@
 ### Projects
 <li> Test documentation</li>
 <li> Web application testing 
-[![kohl](https://img.shields.io/badge/-webtng-000000?style=for-the-badge)](https://github.com/KLidya/KOHL.git)</li>
 <li> Working with data</li>
 <li> Working with code </li>
 
@@ -19,7 +18,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-496F84?style=for-the-badge)
 ![mySQL](https://img.shields.io/badge/-mySQL-CE9606?style=for-the-badge&logo=mysql&logoColor=000000)
 ![Postman](https://img.shields.io/badge/-Postman-FF0000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-00B2FF?style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-00B2FF?style=for-the-badge)<br>
 ![KNACK](https://img.shields.io/badge/-KNACK-8F0000?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-074711?style=for-the-badge)
 ![JENKINS](https://img.shields.io/badge/-JENKINS-000000?style=for-the-badge)
