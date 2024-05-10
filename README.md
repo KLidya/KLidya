@@ -7,7 +7,8 @@
 
 ### Projects
 <li> Test documentation</li>
-<li> Web application testing</li>
+<li> Web application testing 
+[![kohl](https://img.shields.io/badge/-webtng-000000?style=for-the-badge)](https://github.com/KLidya/KOHL.git)</li>
 <li> Working with data</li>
 <li> Working with code </li>
 
@@ -21,6 +22,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-00B2FF?style=for-the-badge)
 ![KNACK](https://img.shields.io/badge/-KNACK-8F0000?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-074711?style=for-the-badge)
+![JENKINS](https://img.shields.io/badge/-JENKINS-000000?style=for-the-badge)
+![KATALON](https://img.shields.io/badge/-KATALON-FF0000?style=for-the-badge)
 
 ### Follow me
 [![LinkedIN](https://img.shields.io/badge/-LinkedIN-000D80?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lidya-kalugina-49a05923b/)
