@@ -9,8 +9,7 @@
 <li> Test documentation</li>
 <li> Web application testing  
 <li> Working with data</li>
-<li> Working with code <br>
-[![BoS](https://img.shields.io/badge/-BoS-000D80](https://github.com/KLidya/Bank-of-Suburbs.git)</li>
+<li> Working with code </li>
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000D80?style=for-the-badge)
