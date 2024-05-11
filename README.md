@@ -3,7 +3,7 @@
 ## I'm a Software Quality Assurance Engineer.
 
 ### My resume
-[![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/KaluginaL%202024.docx?)
+[![Resume](https://img.shields.io/badge/-Resume-F02F2F?style=for-the-badge)](https://github.com/KLidya/KLidya/blob/main/resume.txt)
 
 ### Projects
 <li> Test documentation</li>
