@@ -9,3 +9,23 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+
+.card {
+    background-color: #fff;
+    width: 163px;
+    height:407px;
+    border-radius: 20px; 
+    padding: 20px;
+
+    margin:auto;
+}
+.card-title {
+    margin-top: 20px;
+
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    width: 130px;
+
+
+}
