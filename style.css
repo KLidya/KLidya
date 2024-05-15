@@ -1,1 +1,11 @@
-
+body {
+    background-color: blueviolet;
+    font-family: "Open Sans", sans-serif; 
+    font-size: 25px;
+    color:aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
