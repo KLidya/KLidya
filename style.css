@@ -171,3 +171,14 @@ body {
 .messanger:hover {
     background-color: #1E1E1E;
 }
+
+.footer {
+    padding: 30px 0;
+    background-color: #1E1E1E;
+
+    color: #5D5D5D;
+}
+
+.footer-inner p + p {
+    margin-top: 15px;
+}
